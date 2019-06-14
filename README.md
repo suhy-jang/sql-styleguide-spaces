@@ -1,6 +1,6 @@
 # sql styleguide
 
-##Spaces
+## Spaces
 
 Spaces should be used to line up the code so that the root keywords all end on the same character boundary. This forms a river down the middle making it easy for the readers eye to scan over the code and separate the keywords from the implementation detail. Rivers are bad in typography, but helpful here.
 
